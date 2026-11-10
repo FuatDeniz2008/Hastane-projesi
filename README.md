@@ -11,4 +11,4 @@ Bu proje Müşteri ve Randevu Yönetim Sistemi olarak geliştirilmiştir.
 - Dosya İşlemleri Bonus (hastane.txt)
 - Günlük Raporlama Bonus
 
-Öğrenciler: Fuat Deniz & Rana
+Öğrenciler: Fuat Deniz 
