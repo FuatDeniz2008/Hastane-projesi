@@ -1,14 +1,21 @@
-# BPG Hasta ve Randevu Sistemi - Hafta 10 Proje
+# Hastane Projesi - Musteri ve Randevu Yonetim Sistemi
 
-Bu proje Müşteri ve Randevu Yönetim Sistemi olarak geliştirilmiştir.
+BPG Hafta 10 projesi. C dilinde yazilmis hasta ve randevu yonetim sistemidir.
 
-Özellikler:
-- Yeni Hasta Kaydı (for döngüsü)
-- Randevu Oluşturma (for ile arama)
-- Randevu Listeleme (iç içe for döngüsü)
-- Fatura Kesme
-- Hasta Arama (strstr)
-- Dosya İşlemleri Bonus (hastane.txt)
-- Günlük Raporlama Bonus
+## Ozellikler
+1. Yeni hasta kaydi
+2. Randevu olusturma
+3. Randevu listesini goruntuleme
+4. Fatura kesme ve islem tamamlama
+5. Hasta arama (buyuk/kucuk harf fark etmez)
+6. Cikis
+7. Gunluk raporlama (Bonus)
 
-Öğrenciler: Fuat Deniz 
+## Dosya islemleri (Bonus)
+- hastane.txt : hasta ve randevu verileri
+- fatura.txt  : kesilen faturalar
+- rapor.txt   : gunluk raporlar
+
+## Calistirma
+gcc main.c -o hastane
+./hastane
